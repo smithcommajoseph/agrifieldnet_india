@@ -1,0 +1,5 @@
+outs:
+- md5: ef2492e725d87ec78df043b8427faf6a.dir
+  size: 3134182159
+  nfiles: 23
+  path: saved_models

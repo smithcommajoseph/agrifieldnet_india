@@ -1,0 +1,58 @@
+COLLECTION_ID: 'ref_agrifieldnet_competition_v1'
+PROCESSED_COLLECTION_ID: 'ref_agrifieldnet_competition_v1_proc'
+ASSETS: ['field_ids','raster_labels']
+SRC_TILE_WIDTH: 256
+SRC_TILE_HEIGHT: 256
+BANDS:
+  - id: 'B01' 
+    name: 'coastal aerosol'
+  - id: 'B02'
+    name: 'blue'
+  - id: 'B03'
+    name: 'green'
+  - id: 'B04'
+    name: 'red'
+  - id: 'B05'
+    name: 'vegetation red edge'
+  - id: 'B06'
+    name: 'vegetation red edge'
+  - id: 'B07'
+    name: 'vegetation red edge'
+  - id: 'B08'
+    name: 'nir'
+  - id: 'B8A'
+    name: 'vegetation red edge'
+  - id: 'B09'
+    name: 'water vapour'
+  - id: 'B11'
+    name: 'swir'
+  - id: 'B12'
+    name: 'swir'
+CROPS:
+  - id: 1
+    name: Wheat
+  - id: 2
+    name: Mustard
+  - id: 3
+    name: Lentil
+  - id: 4
+    name: No crop/Fallow
+  - id: 5
+    name: Green pea
+  - id: 6
+    name: Sugarcane
+  - id: 8
+    name: Garlic
+  - id: 9
+    name: Maize
+  - id: 13
+    name: Gram
+  - id: 14
+    name: Coriander
+  - id: 15
+    name: Potato
+  - id: 16
+    name: Bersem
+  - id: 36
+    name: Rice
+

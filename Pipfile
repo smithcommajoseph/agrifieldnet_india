@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "==1.4.3"
+scikit-learn = "==1.1.2"
+tqdm = "==4.64.0"
+rasterio = "*"
+numpy = "==1.23.2"
+radiant-mlhub = "==0.5.2"
+jupyter = "*"
+matplotlib = "*"
+pyyaml = "*"
+seaborn = "*"
+xgboost = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+lightgbm = "*"
+wheel = "*"
+imbalanced-learn = "*"
+imblearn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9.12"
