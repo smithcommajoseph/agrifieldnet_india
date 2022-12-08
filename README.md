@@ -2,7 +2,7 @@
 
 The repo contains data prep, eda and modeling code for the [AgrifieldNet India Challenge](https://zindi.africa/competitions/agrifieldnet-india-challenge). 
 
-This project includes the five models, which achieve the following scores from the AgrifieldNet competition.
+This project includes five models, which achieve the following scores from the AgrifieldNet competition.
 
 | Model | Public Score | Private Score |
 | ----- | ------------ | ------------- |
