@@ -97,15 +97,6 @@ def pixel_data_extractor_1(data_, path, collection_id, selected_bands, n_obs, im
     data['lat'] = lats
 
     return data[data['field_id']!=0]
-
-def get_crop_name_from_id(crop_list, c_id):        
-    srch = [c for c in crop_list if c['id'] == c_id]
-    ret_val = None
-
-    if len(srch) != 0:
-        ret_val = srch[0]['name']
-    
-    return ret_val
     
 def rol_col_extractor(data_, path, collection_id, selected_bands):
     uni_field_keys = data_['merged_field_keys'].unique()

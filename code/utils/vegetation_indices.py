@@ -1,5 +1,5 @@
 # NDVI SRI RENDVI ARI - https://journals-crea.4science.it/index.php/asr/article/view/1463
-# others - https://sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts
+# other VIs - https://sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts
 # Cleanly indexed version found here - https://www.indexdatabase.de/db/i.php
 
 # Enhanced Vegetation Index (EVI)
