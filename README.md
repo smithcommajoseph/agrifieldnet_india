@@ -12,13 +12,14 @@ This project includes five models, which achieve the following scores from the A
 | mlp_p | 1.806023962  | 1.767157053   |
 | v_p   | 1.309915641  | 1.372958035   |
 
-The final model, a voting classifier, *would have ranked* **22nd** place according to the [leaderboard](https://zindi.africa/competitions/agrifieldnet-india-challenge/leaderboard) had these results been submitted before the end of the cutoff date.
+The final model, a voting classifier, *would have ranked* **22nd** place according to the [leaderboard](https://zindi.africa/competitions/agrifieldnet-india-challenge/leaderboard) had these results been submitted before the end of the cutoff date as part of the competition.
 
 ## Prerequisites
 
+- Python
 - Pipenv
 
-## Running the things
+## Running the project
 
 From within this directory run the following
 
